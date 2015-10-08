@@ -1,0 +1,41 @@
+Column Questions:
+1. When I put "float right" testDiv1 moved up to the same line and to the right of testDiv2. They are both now on the same line.
+2. When I put "float left" both blocks moved so that they were aligned on the left margin on the same line.
+3. When I made testDiv1 float right and testDiv2 float left, they moved in their respective directions so that they were aligned on the same line but at each margin. The space between the blocks increased.
+4. I made both blocks float to the left and made the width of testDiv1 60%. They blocks both aligned to the left, but the width of testDiv1 increased, making it more of a rectangular shape. It also pushed testDiv2 to the line below testDiv1.
+5. The maximum width  I could do without adjusting padding and margins to have testDiv1 and testDiv2 be on the same line is 40%.
+6. If I resize my browser window, testDiv2 gets moved to the line below testDiv1 until you reach a certain width side for the browser.
+7. When I increased the margin and padding each by 1, testDiv2 got moved to the line below testDiv1. Therefore I had to reduce the width length to 30% to keep them on the same line.
+8. I added the "testDiv3" rule to the style section and a third text box appeared on the browser.
+9. I was able to make all three blocks equal in size and on the same line by making the width 20%, the font size 1em, the padding 2em, and the margin 3em.
+10. To get the this particular spacing I made testDiv1 have a 17% width length, testDiv2 have a 24% width, and testDiv3 have a 24% width.
+11. To achieve this particular spacing I made testDiv1 and testDiv3 have a width of 12% and testDiv2 have a width of 36%.
+List Questions:
+1. When I put "list style" as the property and "circle inside" as the value, the bullets in the list became round circles and they indented more to the left.
+2. When I made the value "circle outside" the bulleted list moved more to the left of the page.
+3. When I changed the value to "square" the bullets on the list became solid black squares.
+4. When I put the value as "none" the bullets on the list disappeared.
+5. I put in a property of "border" and a value of 2 pixels and another property of "background-color" and a value of "red". The result was a red background that bled all the way to the end of the web browser page.
+6. When I added the "padding" property with a value of "10px," the text moved to the left margin of the web page.
+7. When I added the "padding-left" property with a value of "40px," the bulleted list moved further right.
+8. When I got rid of the "padding-left" property and changed the value of the "padding" property to 0px, the text in the list moved over to the left margin once more and the red background decreased in size to start and end right above and below the list.
+List Questions Part 2:
+1. I added the "border" property with a value of 1px, a "border-style" property with a value of "dashed,"" a "border-width" property with a value of "thick,"" and a "color" property with a value of "black." The result was a border of that type around each list item.
+2. When I added a value of "10px" to the "padding" property, the result was increased space between the list items and their respective borders.
+3. When I added a value of "200px" to the width property,the width of the margin shrunk significantly.
+4. When I added a "margin" with a value of "20px," the space between the list item borders increased.
+5. When I added a "display" property with an "inline" value, the list items all moved to be on the same horizontal line.
+6. When I changed the value of the "display" property to "block," it returned to the original vertical list structure.
+7. When I changed the value of the "display" property to "inline-block," it returned to the horizontal line format with more spacing between each item.
+Position Questions:
+1. When I added a "relative" value to the "position" property no visible changes seemed to appear on the web page.
+2. When I added a "left" property with a value of "100px," the testDivPosition block shifted to the right a bit.
+3. When I switched the "left" property with a "right" property but kept the value of 100px, the block shifted to the right and some of the text was cut off.
+4. When I replaced the "right" property with a "top" property but kept the value at 100px, the block shifted downwards but stayed on the left margin of the web page.
+5. When I added a "left" property of 200px value, the block moved to the right but kept the spacing above it from the top property.
+6. When I removed the top and left properties and changed the value of the position property to absolute, the block returned to the upper lefthand corner of the ruler
+7. When I added a top property of 0px, the result was the block moving to the very upper lefthand corner of the web page.
+8. When I added a right property of 100px, the block remained at the top of the webpage but shifted over towards the right margin, but with a little space left.
+9. When I removed the top property, the block moved downwards to be towards the right margin with the same about of space between them.
+10. When I added a bottom property of 0px, the block shifted up a bit on the ruler.
+11. I tested out a bottom property with a value of 100px, and the result was the block moving upwards because space below it was being inserted.

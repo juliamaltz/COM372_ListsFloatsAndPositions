@@ -1,13 +1,35 @@
 #testDiv1 {
-  width: 35%;
+  width: 12%;
   font-size: 1em;
-  padding: 1em;
-  margin: 2em;
+  padding: 2em;
+  margin: 3em;
+  float: left;
 }
 
 #testDiv2 {
-  width: 35%;
+  width: 36%;
   font-size: 1em;
-  padding: 1em;
-  margin: 2em;
+  padding: 2em;
+  margin: 3em;
+  float: left;
+}
+#testDiv3 {
+  width: 12%;
+  font-size: 1em;
+  padding: 2em;
+  margin: 3em;
+  float: left;
+}
+#list1 li{
+  list-style: none;
+  border: 1px; border-style: dashed; border-width: thick; color: black;
+  padding: 10px;
+  width: 200px;
+  margin: 20px;
+  display: inline-block;
+}
+#testDivPosition {
+  position: absolute;
+  right: 100px;
+  bottom: 100px;
 }
